@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm PAVULURU SUDHARSHAN CHOWDARY</h1>
-<h3 align="center">Frontend Developer & UX/UI Designer from India | Building intuitive web apps with React & Figma 🚀</h3>
+<h3 align="center"> Full Stack Developer & UX/UI Designer from India | Building intuitive web apps with React & Figma 🚀</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=psudharshanchowdary&label=Profile%20views&color=0e75b6&style=flat" alt="psudharshanchowdary" /> </p>
 
